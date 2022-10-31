@@ -13,6 +13,8 @@
 
 ### 💡 Others
 
+- Locked `layoutDirection` to LTR to prevent incorrect rendering when used together with a RTL enabled app.
+
 ### ⚠️ Notices
 
 - Added support for React Native 0.70.x. ([#19261](https://github.com/expo/expo/pull/19261) by [@kudo](https://github.com/kudo))
