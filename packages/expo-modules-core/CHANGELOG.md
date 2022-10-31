@@ -10,6 +10,18 @@
 
 ### 💡 Others
 
+## 0.13.3 — 2022-10-30
+
+### 🎉 New features
+
+- Added `AppContext.hasActiveReactInstance` on Android. ([#19723](https://github.com/expo/expo/pull/19723) by [@lukmccall](https://github.com/lukmccall))
+
+## 0.13.2 — 2022-10-28
+
+### 🐛 Bug fixes
+
+- Fixed `new NativeEventEmitter() was called with a non-null argument without the required addListener method.` warnings on Android. ([#19704](https://github.com/expo/expo/pull/19704) by [@kudo](https://github.com/kudo), [@kudo](https://github.com/kudo))
+
 ## 0.13.1 — 2022-10-27
 
 ### 🐛 Bug fixes
